@@ -1,2 +1,1 @@
 This is a licence file
-## this is a sentence to reset
